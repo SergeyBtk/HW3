@@ -5,7 +5,7 @@ from random import randint
 # которое мы вводим с клавиатуры, либо выводим на экран, максимально близкое ему по значению
 
 lenght = int(input('введите длину списка: ')
-number = int(input('введите число которое хотите найти: ')
+number = int(input('введите число которое хотите найти:  ')
 number_new = number
 number_el_list = 0
 list_1 = []
